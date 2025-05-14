@@ -20,7 +20,7 @@ app.use(cors({
     allowedHeaders: ['Content-Type', 'Authorization'], 
 }));
 
-const baseURL = "http://localhost:3000";
+const baseURL = "https://shorterurl-zsqv.onrender.com";
 
 function generateShortUrl(url) {
 
