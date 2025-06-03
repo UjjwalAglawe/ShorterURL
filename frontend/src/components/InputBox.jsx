@@ -44,7 +44,7 @@ export const InputBox = () => {
                 onClick={handleSubmit}
                 className="mt-4 w-full bg-fuchsia-700 hover:bg-fuchsia-600 text-white font-semibold py-3 rounded-xl transition-colors duration-200"
             >
-                ✂️ Shorten URL
+                Shorten URL
             </button>
 
             {shortUrl && (

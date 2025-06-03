@@ -24,7 +24,7 @@ function App() {
 
       <div className='max-w-3xl mx-auto px-4 py-16 text-center'>
         <h1 className='text-5xl font-extrabold text-amber-400 mb-6'>
-          ✂️ Make Your URLs Short & Sweet!
+           Make Your URLs Short & Sweet!
         </h1>
 
         <p className='text-gray-300 text-lg mb-10'>
@@ -34,7 +34,7 @@ function App() {
         <InputBox />
 
         <div className="mt-20 text-gray-400 text-sm">
-          <p>🔐 Your links are private and stored securely.</p>
+          <p> Your links are private and stored securely.</p>
         </div>
       </div>
 
